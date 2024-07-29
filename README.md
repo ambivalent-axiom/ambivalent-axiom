@@ -18,9 +18,7 @@
 
 <p align="center">
 
-Thanks for visiting my sapce! I appreciate.
-
-What is an ambivalent-axiom? I think the best way to describe it is in cats! Yess! Schrödinger's cat is a most famous ambivalent axiom! :))))) 🐈‍⬛
+Thanks for visiting!
 
 You are reading this readme instead of talking to me directly probably because I am superbusy working on my CODELEX final project, it's going to be full functional banking system... can't wait to push it.. 🐱
 
@@ -44,7 +42,8 @@ or
 ambaxiom@proton.me
 
 Stay sharp and keep on grinding! :octocat:
-    
+
+What is an ambivalent-axiom? I think the best way to describe it is in cats! Yess! Schrödinger's cat is a most famous ambivalent axiom! :))))) 🐈‍⬛
 </p>
 
 ---
