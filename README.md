@@ -26,6 +26,9 @@ ambaxiom@proton.me
 LinkedIn: https://www.linkedin.com/in/artursmelnis/
 
 
+Stay sharp and keep on grinding! :octocat:
+
+
 <!--
 **ambivalent-axiom/ambivalent-axiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
