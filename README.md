@@ -8,9 +8,6 @@
     <strong>Software Developer | PHP, Python, JavaScript </strong>
 </p>
 
-
-
-<h2 align="center">🔗 Find me on the web</h2>
 <p align="center">
     <a href="https://ambax.io" target="_blank">Homepage</a> |
     <a href="https://github.com/ambivalent-axiom" target="_blank">GitHub</a>
