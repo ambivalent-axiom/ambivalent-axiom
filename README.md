@@ -1,25 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Artūrs Melnis</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/artursmelnis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://x.com/artmelnis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 <p align="center">
-    <strong>Software Developer | PHP, Python, JavaScript Enthusiast</strong>
+    <strong>Software Developer | PHP, Python, JavaScript </strong>
 </p>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
-<p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Django-092D44?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+
 
 <h2 align="center">🔗 Find me on the web</h2>
 <p align="center">
@@ -28,9 +17,6 @@
 </p>
 
 <p align="center">
-    <em>Let's build something amazing together!</em>
-</p>
-
 
 Thanks for visiting my sapce! I appreciate.
 
@@ -57,21 +43,23 @@ artmelnis@gmail.com
 or
 ambaxiom@proton.me
 
-<p>
-  <a href="https://www.linkedin.com/in/artursmelnis/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/ambivalent-axiom" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
-</p>
-
 Stay sharp and keep on grinding! :octocat:
+    
+</p>
 
 ---
 
-
-
+<h2 align="center">🛠️ Technologies & Tools</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
 
 
