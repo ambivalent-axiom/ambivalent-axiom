@@ -20,7 +20,7 @@
 
 Thanks for visiting!
 
-You are reading this readme instead of talking to me directly probably because I am superbusy working on my CODELEX final project, it's going to be full functional banking system... can't wait to push it.. 🐱
+You are reading this readme instead of talking to me directly probably because I am superbusy working on my CODELEX final project, it's going to be awesome! can't wait to push it.. 🐱
 
 If You wanna check my best projects, check:
 
