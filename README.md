@@ -20,7 +20,7 @@
 
 Thanks for visiting my sapce! I appreciate.
 
-What is an ambivalent-axiom? I think the best way to describe it in cats! Yess! Schrödinger's cat is a most famous ambivalent axiom. 🐈‍⬛
+What is an ambivalent-axiom? I think the best way to describe it is in cats! Yess! Schrödinger's cat is a most famous ambivalent axiom! :))))) 🐈‍⬛
 
 You are reading this readme instead of talking to me directly probably because I am superbusy working on my CODELEX final project, it's going to be full functional banking system... can't wait to push it.. 🐱
 
@@ -60,10 +60,6 @@ Stay sharp and keep on grinding! :octocat:
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
-
-
-
 
 <!--
 **ambivalent-axiom/ambivalent-axiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
