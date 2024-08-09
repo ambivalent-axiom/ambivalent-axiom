@@ -19,7 +19,7 @@ Thanks for visiting!
 
 If You wanna check my best projects, check:
 
-Codelex bootcamp final project - PHP/Laravel Application featuring many functions, like transactions, account sharing, crypto investment and many more...<br>
+PHP/Laravel Application featuring many functions, like transactions, account sharing, crypto investment and many more...<br>
 Net-Banking App: https://github.com/ambivalent-axiom/netbank
 
 MVC and OOP in web examples in PHP:
