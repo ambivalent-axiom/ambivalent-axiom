@@ -17,9 +17,10 @@
 
 Thanks for visiting!
 
-You are reading this readme instead of talking to me directly probably because I am superbusy working on my CODELEX final project, it's going to be awesome! can't wait to push it.. 🐱
-
 If You wanna check my best projects, check:
+
+PHP/Laravel Application featuring many functions, like transactions, account sharing, crypto investment and many more...
+Net-Banking App: https://github.com/ambivalent-axiom/netbank
 
 MVC and OOP in web examples in PHP:
 Article Website: https://github.com/ambivalent-axiom/articleWebsite or Crypto Trade https://github.com/ambivalent-axiom/crypto_trade
