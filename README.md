@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Artūrs Melnis</h1>
+<h1 align="center">Artūrs Melnis</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/artursmelnis/" target="_blank"><img src="https://img.icons8.com/?size=60&id=108812&format=png&color=000000" alt="LinkedIn"/></a>
     <a href="https://x.com/artmelnis" target="_blank"><img src="https://img.icons8.com/?size=60&id=I02TdaPxbwRz&format=png&color=000000" alt="Twitter"/></a>
@@ -43,10 +43,12 @@ Stay sharp and keep on grinding! :octocat:
 
 What is an ambivalent-axiom? I think the best way to describe it is in cats! Yess! Schrödinger's cat is a most famous ambivalent axiom! :))))) 🐈‍⬛
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambivalent-axiom&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" alt="ambivalent-axiom's GitHub Stats" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambivalent-axiom&theme=great-gatsby&hide_border=true" alt="ambivalent-axiom's GitHub Stats" height="150"/>
+</p>
 
----
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h2 align="center">Technologies & Tools</h2>
 <p align="center">
     <img src="https://img.icons8.com/?size=60&id=fAMVO_fuoOuC&format=png&color=000000" alt="PHP"/>
     <img src="https://img.icons8.com/?size=60&id=hUvxmdu7Rloj&format=png&color=000000" alt="Laravel"/>
@@ -64,18 +66,3 @@ What is an ambivalent-axiom? I think the best way to describe it is in cats! Yes
     <img src="https://img.icons8.com/?size=60&id=xBKl2pdJg5kk&format=png&color=000000" alt="Git"/>
     <img src="https://img.icons8.com/?size=60&id=17838&format=png&color=000000" alt="Debian"/>
 </p>
-
-<!--
-**ambivalent-axiom/ambivalent-axiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
