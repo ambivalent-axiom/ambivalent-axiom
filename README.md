@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Artūrs Melnis</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/artursmelnis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://x.com/artmelnis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://www.linkedin.com/in/artursmelnis/" target="_blank"><img src="https://img.icons8.com/?size=60&id=108812&format=png&color=000000" alt="LinkedIn"/></a>
+    <a href="https://x.com/artmelnis" target="_blank"><img src="https://img.icons8.com/?size=60&id=I02TdaPxbwRz&format=png&color=000000" alt="Twitter"/></a>
 </p>
 
 <p align="center">
@@ -60,6 +60,9 @@ What is an ambivalent-axiom? I think the best way to describe it is in cats! Yes
     <img src="https://img.icons8.com/?size=60&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind"/>
     <img src="https://img.icons8.com/?size=60&id=UVoIIrVtQV37&format=png&color=000000" alt="SIP"/>
     <img src="https://img.icons8.com/?size=60&id=50ZQHdJTmPqw&format=png&color=000000" alt="Bash"/>
+    <img src="https://img.icons8.com/?size=60&id=wIbWQHJLwHxp&format=png&color=000000" alt="Redis"/>
+    <img src="https://img.icons8.com/?size=60&id=xBKl2pdJg5kk&format=png&color=000000" alt="Git"/>
+    <img src="https://img.icons8.com/?size=60&id=17838&format=png&color=000000" alt="Debian"/>
 </p>
 
 <!--
