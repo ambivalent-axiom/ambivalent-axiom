@@ -48,14 +48,18 @@ What is an ambivalent-axiom? I think the best way to describe it is in cats! Yes
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.icons8.com/?size=60&id=fAMVO_fuoOuC&format=png&color=000000" alt="PHP"/>
+    <img src="https://img.icons8.com/?size=60&id=hUvxmdu7Rloj&format=png&color=000000" alt="Laravel"/>
+    <img src="https://img.icons8.com/?size=60&id=121464&format=png&color=000000" alt="Python"/>
+    <img src="https://img.icons8.com/?size=60&id=1ZSHk8m9bk4p&format=png&color=000000" alt="JavaScript"/>
+    <img src="https://img.icons8.com/?size=60&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript"/>
+    <img src="https://img.icons8.com/?size=60&id=rgPSE6nAB766&format=png&color=000000" alt="MySQL"/>
+    <img src="https://img.icons8.com/?size=60&id=LwQEs9KnDgIo&format=png&color=000000" alt="PostgreSQL"/>
+    <img src="https://img.icons8.com/?size=60&id=TkG10j-DmXkU&format=png&color=000000" alt="Docker"/>
+    <img src="https://img.icons8.com/?size=60&id=Vra58PN2KmI5&format=png&color=000000" alt="React"/>
+    <img src="https://img.icons8.com/?size=60&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind"/>
+    <img src="https://img.icons8.com/?size=60&id=UVoIIrVtQV37&format=png&color=000000" alt="SIP"/>
+    <img src="https://img.icons8.com/?size=60&id=50ZQHdJTmPqw&format=png&color=000000" alt="Bash"/>
 </p>
 
 <!--
