@@ -68,4 +68,6 @@ What is an ambivalent-axiom? I think the best way to describe it is in cats! Yes
     <img src="https://img.icons8.com/?size=60&id=46605&format=png&color=000000" alt="HTML"/>
     <img src="https://img.icons8.com/?size=60&id=YjeKwnSQIBUq&format=png&color=000000" alt="CSS"/>
     <img src="https://img.icons8.com/?size=60&id=wMbx9IDIpqmI&format=png&color=000000" alt="Ubuntu"/>
+    <img src="https://img.icons8.com/?size=60&id=S4KuN6l5Vsz6&format=png&color=000000" alt="Apple"/>
+    <img src="https://img.icons8.com/?size=60&id=FENqCFASj0PV&format=png&color=000000" alt="Win"/>
 </p>
