@@ -18,24 +18,24 @@
 </p>
 
 
-<a href="github.com/ambivalent-axiom/netbank">
+<a href="github.com/ambivalent-axiom/netbank" target="_blank">
 PHP/Laravel 11 Application featuring many functions, like transactions, account sharing, crypto investment and many more...
 </a>
 <br>
 <br>
-<a href="https://github.com/ambivalent-axiom/cvApp">CV Repository app: Laravel 11, PHP, Blade, TailwindCSS, Docker</a><br>
+<a href="https://github.com/ambivalent-axiom/cvApp" target="_blank">CV Repository app: Laravel 11, PHP, Blade, TailwindCSS, Docker</a><br>
 <br>
-<a href="https://github.com/ambivalent-axiom/animal-registry">Animal registry system: Laravel 11, PHP, React, Typescript, TailwindCSS, Docker</a><br>
+<a href="https://github.com/ambivalent-axiom/animal-registry" target="_blank">Animal registry system: Laravel 11, PHP, React, Typescript, TailwindCSS, Docker</a><br>
 <br>
-<a href="github.com/ambivalent-axiom/react-to-do-app">React/TypeScript AntDesignt CRUD ToDo App</a><br>
+<a href="github.com/ambivalent-axiom/react-to-do-app" target="_blank">React/TypeScript AntDesignt CRUD ToDo App</a><br>
 <br>
-<a href="github.com/ambivalent-axiom/crypto_trade">
+<a href="github.com/ambivalent-axiom/crypto_trade" target="_blank">
 MVC and OOP examples in Vanilla PHP, Twig, Tailwind CSS</a><br>
 <br>
-<a href="github.com/ambivalent-axiom/PythonAPI">
+<a href="github.com/ambivalent-axiom/PythonAPI" target="_blank">
 Python FastAPI APP with Python, Redis, PostgreSQL, Docker</a><br>
 <br>
-<a href="https://github.com/ambivalent-axiom/ballshooter">
+<a href="https://github.com/ambivalent-axiom/ballshooter" target="_blank">
 My very first JS project with JavaScript, a cosmic shooter game</a><br>
 <br>
 <br>
