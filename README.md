@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <strong>Software Developer | PHP, Python, JavaScript </strong>
+    <strong>Software Developer: PHP, Laravel, Python, JavaScript, TypeScript, React </strong>
 </p>
 
 <p align="center">
@@ -14,25 +14,31 @@
 </p>
 
 <p align="center">
+    <strong>Projects to check</strong>
+</p>
 
-Thanks for visiting!
 
-If You wanna check my best projects, check:
-
-PHP/Laravel Application featuring many functions, like transactions, account sharing, crypto investment and many more...<br>
-Net-Banking App: https://github.com/ambivalent-axiom/netbank
-
-MVC and OOP in web examples in PHP:
-Article Website: https://github.com/ambivalent-axiom/articleWebsite or Crypto Trade https://github.com/ambivalent-axiom/crypto_trade
-
-This one is deployed on https://ambax.io
-I know, it's procedural, but You can see that I know those fundamentals too, not just Laravel. :)))
-https://github.com/ambivalent-axiom/php_blog
-
-If You want to check my Python skills, looke here: https://github.com/ambivalent-axiom/PythonforSE
-You will find examples of usage for: Redis, Docker, PostgreSQL, FastAPI e.t.c.
-
-When I started, I started with JavaScript, here I have saved one of my first projects, a cosmic shooter game: https://github.com/ambivalent-axiom/ballshooter
+<a href="github.com/ambivalent-axiom/netbank">
+PHP/Laravel 11 Application featuring many functions, like transactions, account sharing, crypto investment and many more...
+</a>
+<br>
+<br>
+<a href="https://github.com/ambivalent-axiom/cvApp">CV Repository app: Laravel 11, PHP, Blade, TailwindCSS, Docker</a><br>
+<br>
+<a href="https://github.com/ambivalent-axiom/animal-registry">Animal registry system: Laravel 11, PHP, React, Typescript, TailwindCSS, Docker</a><br>
+<br>
+<a href="github.com/ambivalent-axiom/react-to-do-app">React/TypeScript AntDesignt CRUD ToDo App</a><br>
+<br>
+<a href="github.com/ambivalent-axiom/crypto_trade">
+MVC and OOP examples in Vanilla PHP, Twig, Tailwind CSS</a><br>
+<br>
+<a href="github.com/ambivalent-axiom/PythonAPI">
+Python FastAPI APP with Python, Redis, PostgreSQL, Docker</a><br>
+<br>
+<a href="https://github.com/ambivalent-axiom/ballshooter">
+My very first JS project with JavaScript, a cosmic shooter game</a><br>
+<br>
+<br>
 
 Feel free to contact me:
 artmelnis@gmail.com
