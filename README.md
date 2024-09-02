@@ -18,7 +18,7 @@
 </p>
 
 
-<a href="github.com/ambivalent-axiom/netbank" target="_blank">
+<a href="https://github.com/ambivalent-axiom/netbank" target="_blank">
 PHP/Laravel 11 Application featuring many functions, like transactions, account sharing, crypto investment and many more...
 </a>
 <br>
