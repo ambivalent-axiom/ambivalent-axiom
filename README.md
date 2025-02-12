@@ -1,7 +1,6 @@
 <h1 align="center">Artūrs Melnis</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/artursmelnis/" target="_blank"><img src="https://img.icons8.com/?size=60&id=108812&format=png&color=000000" alt="LinkedIn"/></a>
-    <a href="https://x.com/artmelnis" target="_blank"><img src="https://img.icons8.com/?size=60&id=I02TdaPxbwRz&format=png&color=000000" alt="Twitter"/></a>
 </p>
 
 <p align="center">
