@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-    <a href="https://ambax.io" target="_blank">Homepage</a> |
     <a href="https://github.com/ambivalent-axiom" target="_blank">GitHub</a>
 </p>
 
